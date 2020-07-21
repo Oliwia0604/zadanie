@@ -31,4 +31,4 @@ def shopping(items):
     return shopping_cart
 
 basket = shopping(shopping_items)
-print(basket)
+print(basket)yjgcyug k6utkuxc t
